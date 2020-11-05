@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Proza+Libre");
+
+body {
+    background: #fff;
+    color: black;
+    margin:20px;
+}
+#app{
+    /* background-color: lightgray; */
+}
+
+button, input[type="submit"] {
+    background: dodgerblue;
+    color: white;
+    padding: .5em 1em;
+    cursor: pointer;
+}
